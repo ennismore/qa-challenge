@@ -1,0 +1,14 @@
+{
+  "name": "em-booking-e2e",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx playwright@1.28.0 test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.28.0",
+    "@types/node": "^18.11.9"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.6"
+  }
+}
